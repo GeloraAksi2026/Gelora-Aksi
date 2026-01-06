@@ -1,7 +1,7 @@
 /* ===================================
    BEM GELORA AKSI - MODERN CSS
    Complete with Glassmorphism, 
-   Gradient, Animations, and More
+   Gradient, Animations, and Mores
    =================================== */
 
 /* ===== CSS VARIABLES ===== */
@@ -12027,3 +12027,4 @@ body[data-theme="dark"] .contact-card:nth-child(3) .contact-card-icon,
         grid-template-columns: repeat(3, 1fr);
     }
 }
+
